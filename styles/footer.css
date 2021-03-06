@@ -1,0 +1,14 @@
+/* ---------------- 
+FOOTER 
+--------------- */
+footer {
+    margin-top: 20px;
+}
+
+.footer {
+    width: 100%;
+    background-image: linear-gradient(to right,black 0%,gray 60%), url("../assets/images/footer.jpg");
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+}
